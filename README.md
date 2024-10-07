@@ -1,1 +1,1 @@
-# synja52.newsite.io
+# synja52.github.io
